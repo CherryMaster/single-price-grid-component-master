@@ -1,6 +1,7 @@
 body {
     background: hsl(204, 43%, 93%);
     box-sizing: content-box;
+    font-style: 'Karla', serif;
 }
 
 header {
